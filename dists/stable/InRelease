@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Fri, 11 Sep 2026 06:33:07 +0000
+Description: Super-Herdr released Debian packages
+Label: super-herdr
+Origin: super-herdr
+Suite: stable
+MD5Sum:
+ 6d43aa320d6926dc0d3176a0294fd019              947 main/binary-amd64/Packages
+ a7f55aea44cbdf68b32a0807acc43cff              650 main/binary-amd64/Packages.gz
+ ebc2fe4e2a9b9cc483aecba2d006a03f              946 main/binary-arm64/Packages
+ 9043e623b302c317c30cd12ac28f19b9              649 main/binary-arm64/Packages.gz
+SHA1:
+ 07675783d8eb5b2445da7233c3d0682cd8b5b147              947 main/binary-amd64/Packages
+ f1ebf34e6490d0e8cba251b467feb6659e8b208f              650 main/binary-amd64/Packages.gz
+ ac7df461f7938b0caf177ed384572b7fde8239c9              946 main/binary-arm64/Packages
+ 88a7d45a9d2fcdf5160b9b26992beceecf32ddff              649 main/binary-arm64/Packages.gz
+SHA256:
+ d0ace2c4e48dd350c650f9b030d80849ac5a555a4a90832012b19123ffdccdfd              947 main/binary-amd64/Packages
+ 4a621c14576d8f59c23a8aec15ddd022d8507b4a24cfd24e8336fd168a42c8eb              650 main/binary-amd64/Packages.gz
+ 5126f9b0e616f365a172b94a030349ca24b31f961dba60f558bec0c9a88df28d              946 main/binary-arm64/Packages
+ 78478f66df6ef7fac1528ec6b658781264994b24a2601c2d574fd41a91851c56              649 main/binary-arm64/Packages.gz
+SHA512:
+ 00fcc1363ffed2ee5e647585a2a94ea01d0f711f3a46a0d1c09fb83bbcdb69dc2fe580da1393c8d29973085812c7b820401f9074b100598d27caf32116e62c43              947 main/binary-amd64/Packages
+ 1c544e22d5094c3efa407be673a4fc435e0bfa1a9411768f5debdf4a51538ee03a73298768a5a02fca0af165b874278e1cd889e7e3f5656718486c9d67dc9b8e              650 main/binary-amd64/Packages.gz
+ 960bf1f7cdceb845a9966977fac4b096e590736c419083e17867dc2d51e361467924f8bdb801d80cea7c28df794736ce47597324afe0564b3922afdb8081ee8d              946 main/binary-arm64/Packages
+ 7483bc3bfbb1c4c8c3029440de25bdf77a692a2ba72969bb1df0c0e99297aa8060c5bd0f261c9f2dc5d731d2eb443c4e696f72acc546c3d8decb00670f056cbc              649 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQT7Fc9DKaeeHDIjiTHeXon2K5VH2gUCaqOgowAKCRDeXon2K5VH
+2noTAQDIzejDPi5aL4p2Vodn1DkSLsWXdHvUvD32/6GG/z3rcAEA/XzOjycDXwdH
+2aiQ7pl3I9ZyVHvuPVTpS3sSz7I7Ow0=
+=ya3N
+-----END PGP SIGNATURE-----
