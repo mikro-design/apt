@@ -4,13 +4,21 @@ Debian and Ubuntu packages for
 [Super-Herdr](https://github.com/mikro-design/super-herdr), for amd64 and arm64.
 
 ```sh
+curl -fsSL https://mikro-design.github.io/apt/install.sh | sudo bash
+```
+
+That adds this repository and installs Super-Herdr. Later versions arrive with
+`apt upgrade`.
+
+The same thing, without piping a script to a root shell:
+
+```sh
 sudo install -d -m 0755 /usr/share/keyrings
 curl -fsSL https://mikro-design.github.io/apt/super-herdr.gpg \
   | sudo tee /usr/share/keyrings/super-herdr.gpg > /dev/null
 echo "deb [signed-by=/usr/share/keyrings/super-herdr.gpg] https://mikro-design.github.io/apt stable main" \
   | sudo tee /etc/apt/sources.list.d/super-herdr.list > /dev/null
-sudo apt update
-sudo apt install super-herdr
+sudo apt update && sudo apt install super-herdr
 ```
 
 Everything here is generated. The index is rendered from the packages in the
