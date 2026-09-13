@@ -1,45 +1,5 @@
 Package: super-herdr
 Architecture: amd64
-Version: 0.7.14-1
-Priority: optional
-Section: utils
-Maintainer: Mikro Design <mikrodesign@proton.me>
-Installed-Size: 8926
-Depends: libc6 (>= 2.28)
-Filename: pool/main/s/super-herdr/super-herdr_0.7.14-1_amd64.deb
-Size: 2390912
-MD5sum: 995d1c84d44b3a5d5e31693d9f4f2a69
-SHA1: a1733a055d8b5e50213c63cd23654d30f1781ebf
-SHA256: 7469073f1dec16d65edf89bc081c63d9a5815b98b4b4980ec721fa84c8145b6d
-SHA512: 663f1ddd6f4edd6a8d8d577dbfa3b099ee244d59f4033aa5982ecaafa55d7966e86419a04fc34ff16a27724c5ab0310fd23f365aeadce84562e5b6ac270d72cc
-Homepage: https://github.com/mikro-design/super-herdr
-Description: A multi-host federation client for Herdr sessions
- Super-Herdr is a desktop frontend that federates running Herdr sessions across
- several hosts into one terminal UI, with qualified identities, per-target
- failure isolation, agent attention tracking, and a local clipboard bridge.
-
-Package: super-herdr
-Architecture: amd64
-Version: 0.7.15-1
-Priority: optional
-Section: utils
-Maintainer: Mikro Design <mikrodesign@proton.me>
-Installed-Size: 9595
-Depends: libc6 (>= 2.28)
-Filename: pool/main/s/super-herdr/super-herdr_0.7.15-1_amd64.deb
-Size: 2718760
-MD5sum: 05533be45a5df51bdb74e4d0cd7f732e
-SHA1: 143a117044d5768950c95dbebacec1ab7ce8cd3f
-SHA256: d56c933ef8617d53939270aea1e75fb33e5ea8b244a76a206fc68ca8a47c247a
-SHA512: 863775151d72914ce94714f4fd2d8123eda568b06e60b9c33ba212193a1996b8e9e2fa6b897a0c1a9c73e1d08b55a8ece86fab6bd3c492bd3364c6794096fa50
-Homepage: https://github.com/mikro-design/super-herdr
-Description: A multi-host federation client for Herdr sessions
- Super-Herdr is a desktop frontend that federates running Herdr sessions across
- several hosts into one terminal UI, with qualified identities, per-target
- failure isolation, agent attention tracking, and a local clipboard bridge.
-
-Package: super-herdr
-Architecture: amd64
 Version: 0.7.16-1
 Priority: optional
 Section: utils
@@ -195,6 +155,48 @@ MD5sum: f7de40f4c63694a3093b95ce8c2100ae
 SHA1: e4c693079137890118212c1a4bb4ada0a2087f57
 SHA256: e666c2481fc520dc68598fac35043ab6ce4e3d6ba8c98f3456e633cbfccad213
 SHA512: 4122a458295c29de9aa9109a6960bade588deabd2b6d9b75fae2e0b0ed8dae72a45428f67a9f6a87d248fac5ab716e454634a0fa79f3c1b6d9af75344ec7b286
+Homepage: https://github.com/mikro-design/super-herdr
+Description: A multi-host control plane for persistent Herdr coding-agent sessions
+ Super-Herdr federates running Herdr sessions across several hosts into one
+ terminal UI and an explicitly paired browser client, with qualified identities,
+ per-target failure isolation, agent attention tracking, and verified file
+ transfer.
+
+Package: super-herdr
+Architecture: amd64
+Version: 0.7.24-1
+Priority: optional
+Section: utils
+Maintainer: Mikro Design <mikrodesign@proton.me>
+Installed-Size: 11390
+Depends: libc6 (>= 2.28)
+Filename: pool/main/s/super-herdr/super-herdr_0.7.24-1_amd64.deb
+Size: 3088464
+MD5sum: c15bfb0c079bd2dacef306a43e510d71
+SHA1: f503dda6f386bfb4bac08b6b39e981494c35ff0a
+SHA256: 5d0565164f08c479db5fd4d94b0991035fc911b5d969012ea6248a7800866778
+SHA512: efb6d43bf0d42e02d9c681ca49f1ef92b4a659caf00afb736329e1c5d7f510e750aca306d34bb54abbc5809bada14b1631970412af8deb94dc72e1dd6ea7898f
+Homepage: https://github.com/mikro-design/super-herdr
+Description: A multi-host control plane for persistent Herdr coding-agent sessions
+ Super-Herdr federates running Herdr sessions across several hosts into one
+ terminal UI and an explicitly paired browser client, with qualified identities,
+ per-target failure isolation, agent attention tracking, and verified file
+ transfer.
+
+Package: super-herdr
+Architecture: amd64
+Version: 0.7.25-1
+Priority: optional
+Section: utils
+Maintainer: Mikro Design <mikrodesign@proton.me>
+Installed-Size: 11395
+Depends: libc6 (>= 2.28)
+Filename: pool/main/s/super-herdr/super-herdr_0.7.25-1_amd64.deb
+Size: 3089140
+MD5sum: 63aafd4bca70ceb76f41d75d2906ce62
+SHA1: 6bd1f5d7e9e23c06ef48c6bf879471f1e6bce8c6
+SHA256: 3bbbe4bc536310c55b986559b5f55af61e182a64b4cb3e9a6990236b2ec56907
+SHA512: e6f41500dc6ec9758e1b111b3c62640790704bfdabd20b195b1ec6c7d7a150d4c5379472f91aeefa3f29b9106c49130a525b77418ba83501aeb405fbfd76d099
 Homepage: https://github.com/mikro-design/super-herdr
 Description: A multi-host control plane for persistent Herdr coding-agent sessions
  Super-Herdr federates running Herdr sessions across several hosts into one
