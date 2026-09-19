@@ -4,35 +4,35 @@ Hash: SHA256
 Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Thu, 17 Sep 2026 12:02:09 +0000
+Date: Sat, 19 Sep 2026 07:47:43 +0000
 Description: Super-Herdr released Debian packages
 Label: super-herdr
 Origin: super-herdr
 Suite: stable
 MD5Sum:
- dddc2d4dbb8af96458abf33cde3ddabb             9436 main/binary-amd64/Packages
- 76ec76141fee374d8a9f61ca53f15b01             2433 main/binary-amd64/Packages.gz
- 51668bd028564f2b0335954beb68bd00             9428 main/binary-arm64/Packages
- bc5638279da37a600e55438e2fe867ed             2437 main/binary-arm64/Packages.gz
+ 1b8e14685b9c1ca2a140553b41080f2b             9469 main/binary-amd64/Packages
+ b275b4902c8f4e1673c3604230071df3             2373 main/binary-amd64/Packages.gz
+ 35dbe5710aaece1971df1b576bd108d7             9460 main/binary-arm64/Packages
+ 5b602d3017b6eda35460cb17464342ce             2370 main/binary-arm64/Packages.gz
 SHA1:
- 3de6b0d2e3a91c30404bf89b1e19fafd46d415a1             9436 main/binary-amd64/Packages
- c91112aa11a40b38b65982fbb63d6225ba2ba2bd             2433 main/binary-amd64/Packages.gz
- 5f696a3f0d77536c83cd4b9f52d07adb71083f84             9428 main/binary-arm64/Packages
- 4b020d970e48d525529b15ac452ab3ed0d6f827f             2437 main/binary-arm64/Packages.gz
+ b535662f3edc336d22118ea454ba06c58b02bc0a             9469 main/binary-amd64/Packages
+ 8999eef9a8bd3a3fe50a21ca6ec226c87460c193             2373 main/binary-amd64/Packages.gz
+ 520adf480240ca3c8a3b1939d49bbdcf447cbce5             9460 main/binary-arm64/Packages
+ 4e63d29178a9eb3d72dedc6285632a9ffc4daf12             2370 main/binary-arm64/Packages.gz
 SHA256:
- 598de40d901e3e525881e22fbb42553e0843b80e646f94b34f0bcf5a1b6eaae0             9436 main/binary-amd64/Packages
- 8499dbd40227fe53f951044673e8e36dec80590b7e585e5dee9d87dc9e3615e1             2433 main/binary-amd64/Packages.gz
- 19822ffb39776ae851a114e48c313a4c0efd4d66efe66bcbca2dad859ba92cce             9428 main/binary-arm64/Packages
- 693971d95b841b14372a5c782377907675988182d58782b8cd85e0366eebb07b             2437 main/binary-arm64/Packages.gz
+ f0f24a445d4c4d24fc8c534e5b41ab379d29f7be4dbb1b5f5ac5c3e5acf5b211             9469 main/binary-amd64/Packages
+ 5f9a9339ad0294ba9910cc76e326fbe264ce0fb9708d0b147c9e58f97012d7e5             2373 main/binary-amd64/Packages.gz
+ da4c69478109decb8c3c8a74e2d784923de1716fad622eb07026c315bd963b69             9460 main/binary-arm64/Packages
+ f78f4423eb30f38642448130c612d66c64f5ab591a0b00834afa7285241506b6             2370 main/binary-arm64/Packages.gz
 SHA512:
- 75d043696ffe227e25afad114515e8418d4dc64e01602864d64f67b4aec205582f5909fff083e224edf22df5a70dfdd0437f7e3d007e5ab9d7fe3473b67e6f76             9436 main/binary-amd64/Packages
- bb69c0253f0a40904b51a02d2f7c9810474a424f79b8096ff214dcf901a60eabf1712be43876419797cb610d91c85ea27d61b19252cfd5ee65f8b95c48bb793d             2433 main/binary-amd64/Packages.gz
- adce7d0a87952eab66d6216f05fea28ea1ad370f978612bd973381deb692e4e4e08e1cafb09a99d96afa3f58f1034ddd84f7ee84cab339edffc0f9b6c85ea3dc             9428 main/binary-arm64/Packages
- ca7f2698346b5f9911813751def0842b10159fc65b95f2a860c4bef6f2cf62b91e4937a560ff3c75fe650eb3ab28b1338160e8c78c3fc389967062efcf03524c             2437 main/binary-arm64/Packages.gz
+ 371cf7ede19e8b0100041b7c2458c368ac5858f78608ca0819b7ca5950fee3daf357b2882dc07e9a85bc50480bc3b7977943ebbb72c5fb33559755ac508ac557             9469 main/binary-amd64/Packages
+ 770ce7c22d5548d152a06c54f1cf1a139cce3cd3b4244e1cd14b26143f4eb2f02f71444c2614fa131ff02a6c73da22b7dc121f158ce138321d4d7ef412405733             2373 main/binary-amd64/Packages.gz
+ ad3369a5e1de7a0ccd3066f396bfe7ecd24e6665ac92903087fd3ec8b6c4625eb25b45ef408740f0aab38288393fa4d866013db1d7aa6237b132f0ad152141be             9460 main/binary-arm64/Packages
+ 6db159b8bdf49562fdf252cd069a5c2fe5539b7aed0e333a0f2805e21c1ff207cdec0a892b6e5166f95cc11f9b4ab684b1651528f4e567a5ba9bd74211b73c86             2370 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQT7Fc9DKaeeHDIjiTHeXon2K5VH2gUCaqvcWgAKCRDeXon2K5VH
-2gbHAQDKzU6PzEh68DyCJeaIlsJ2Nuf+SMFfeHZneNmKVoh9HwEAmfVuM9togf49
-toDQI53Fg+bTqiCTjDDM5DgXCh1gtAA=
-=HTJF
+iHUEARYIAB0WIQT7Fc9DKaeeHDIjiTHeXon2K5VH2gUCaq5NTgAKCRDeXon2K5VH
+2spTAQDlgjxj94RZjDmQJ1zPEbV8RCjSrdlNkn0B8YEXFBXdMwD/WNeAb3Y70sSI
+0r4NjxUkwBJ+QGq7A5FFAWKva5SxvAE=
+=e0vw
 -----END PGP SIGNATURE-----
