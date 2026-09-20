@@ -1,28 +1,28 @@
 Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Sat, 19 Sep 2026 17:51:41 +0000
+Date: Sun, 20 Sep 2026 19:16:19 +0000
 Description: Super-Herdr released Debian packages
 Label: super-herdr
 Origin: super-herdr
 Suite: stable
 MD5Sum:
- 085c77aff7812e73b5fcf29856252406             9470 main/binary-amd64/Packages
- 32bd64b164e9f59200d667c48204d601             2372 main/binary-amd64/Packages.gz
- 80f63496c83c5a3982f4702870882a02             9460 main/binary-arm64/Packages
- 0b3829f2dfe8a9432ec19da1316c1c6c             2362 main/binary-arm64/Packages.gz
+ 6aab8776bf895e3521cffa0a5886d1f6             9470 main/binary-amd64/Packages
+ 15f29c1171ff08eb1a72f0c60755a813             2374 main/binary-amd64/Packages.gz
+ 941a003a876c211da7426f8e17995e81             9460 main/binary-arm64/Packages
+ dc2c17fd00535df2ac458f739396829b             2368 main/binary-arm64/Packages.gz
 SHA1:
- a2acb833c88bd96540f1dadfcd890e1d915a34f9             9470 main/binary-amd64/Packages
- bc1890ddb329423087eac9d3bc91b315dd8c961b             2372 main/binary-amd64/Packages.gz
- d394d5d7a972c9d74f1644dc14ccc21ff2e7488c             9460 main/binary-arm64/Packages
- 3be57d46203ea7969beab5df99ba031141b2447a             2362 main/binary-arm64/Packages.gz
+ 5e7327f48956bc56d01e52d4ad06e1dffd74c424             9470 main/binary-amd64/Packages
+ b571db1503321297c423aac8c7de5beb79cb661a             2374 main/binary-amd64/Packages.gz
+ 70ce269710e108084acabf06ff5171a7e5841579             9460 main/binary-arm64/Packages
+ 628d442f8532a6adc8e929ae291f3ce626580a99             2368 main/binary-arm64/Packages.gz
 SHA256:
- 21e2d422da8976b354fa04df5ac7817ca52c7962ab53b5e2da3d4f2023db7b65             9470 main/binary-amd64/Packages
- 79c2f5cf082c5ec05cb4ed009bff96b3b1ff1265422c37467dca940023d511d2             2372 main/binary-amd64/Packages.gz
- f20c675f8e7ef9260d29a2dce07579476eebfa3c240ae96f57967d785deb1465             9460 main/binary-arm64/Packages
- 581daa436c5dc305d20ee47269c39103225222e92540ed3b856d5cca6bb70e53             2362 main/binary-arm64/Packages.gz
+ 16887e3bbf17f061f7f3758b3af516326d74f548311cd80c483330eec429e208             9470 main/binary-amd64/Packages
+ dbf2b2114463347024044d65b9fc4882bd3ff9be087c0df432122a2fa900bcfb             2374 main/binary-amd64/Packages.gz
+ fd2d72f7f220b9f892d427570f5e622acd409e99ca16d24b8690e3964ee2b4c7             9460 main/binary-arm64/Packages
+ a1bd0bd7c0a1ba6d2edefe48cdb961fd2c77bfbab68b2d59bcaf6a8094b9da7e             2368 main/binary-arm64/Packages.gz
 SHA512:
- bd9a54cc0dbb3d20f5691ddd2d2ef7048bc49b300c920e8fb56a1b4729683a888a1ee2b47e9970b0ece8d88b9052a8c48db366f9d6583f8831d11f6efeb42b12             9470 main/binary-amd64/Packages
- 9ae8a53197727ea72ff2ff698186036227c52a591e956a7927b999855e0f9febd38a26eeda89e1b4a881d0feb5cc91dddf28f01ebc37ae5c0ff4d442f8ef366e             2372 main/binary-amd64/Packages.gz
- b3983461606fcdcdd993f1a3ba4c5e0fe7ce814e18807faf10d0fd3ac669c6fbc3ee7fe688f950a509c5e8f3129124c115c0c1ac574bce0ba6b56e0490144504             9460 main/binary-arm64/Packages
- 1996ab2791e9f9d199708321f2c5f0c9200f57f9702e0a042325df9d07a676277c9f917cd5f761e5c0e3ca7525659a43c8159061bb69896d85a3b163eee7afff             2362 main/binary-arm64/Packages.gz
+ 23799dca5cf548e94bd69b3b40f6910cc872cf684f93ac1daf12830e948cee319e98d9077925428e3d4b63812dbbc15877cda9ef216e1a79244d0b7ecde1f34a             9470 main/binary-amd64/Packages
+ 2634c4d6be08bdc6a3ceccb3ef9455b36704b7bc0b32831b6d8f00221e5862abe7010a57f10269e8695f994b82de505ca20f0df89c46966decdcc953f23b3d0d             2374 main/binary-amd64/Packages.gz
+ 8b2a6c71cd7afe5612b7006cced60969c7a617eb76f065c6a0a61061322d4dafa11c9391e5c95ac57bd122b4559905add9fd0a285aeb2b12e5782f2a2ad11453             9460 main/binary-arm64/Packages
+ 6dc37bf08ae27e5501b6ead785721d0801ddddcb77309e4a55099c8064ea623f161816a01eee36e68667c5aaad5b81a95f67dc4db1f7ed8c2129bef82ae10899             2368 main/binary-arm64/Packages.gz
