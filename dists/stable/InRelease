@@ -4,35 +4,35 @@ Hash: SHA256
 Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Tue, 20 Oct 2026 15:44:47 +0000
+Date: Tue, 20 Oct 2026 18:25:11 +0000
 Description: Super-Herdr released Debian packages
 Label: super-herdr
 Origin: super-herdr
 Suite: stable
 MD5Sum:
- ac61506d26017308f0f2069e767e2218             9470 main/binary-amd64/Packages
- 16805a626d0f2b65c6b29e58f6b9f570             2387 main/binary-amd64/Packages.gz
- 33f2a4f0f2f73f255c0d37f882c9e843             9462 main/binary-arm64/Packages
- 8851e2e1d0bce8f6042aeb93d489e87c             2375 main/binary-arm64/Packages.gz
+ f0a95376c9d28bb1144b0f0caa3c0bb8             9470 main/binary-amd64/Packages
+ 7f1ec262df02ff3695fd7ac0d16d2f05             2385 main/binary-amd64/Packages.gz
+ 24c1a869c678235aba93cc105c6aa32e             9463 main/binary-arm64/Packages
+ c983f4b5b2287454e8aa5fed9a58d6c0             2370 main/binary-arm64/Packages.gz
 SHA1:
- 614b809024b1290940a402ee991b516320f94102             9470 main/binary-amd64/Packages
- 8f83ebc1c7f95155eb4998e1a77111ef92f97cd7             2387 main/binary-amd64/Packages.gz
- 800eeb0f0184d29228ef92e896039ae457b930fd             9462 main/binary-arm64/Packages
- 82ef3e87e8f87f90f0cf6db48686eb05ceef36bf             2375 main/binary-arm64/Packages.gz
+ f16e195b61d3798937796a14b1e149f4f99c6afe             9470 main/binary-amd64/Packages
+ a31c5022c5470f8a4416e3f5139d51d977be6088             2385 main/binary-amd64/Packages.gz
+ d3344217f48a2f43aaeb54c7ac36fb37da8611f0             9463 main/binary-arm64/Packages
+ ccb5b92ddaac119f4c42284cb897f7d4c1a5e516             2370 main/binary-arm64/Packages.gz
 SHA256:
- cb159814c38f4fc8a4c57ec137e4f57de3482e015acf6d2799078ac8083dd6ec             9470 main/binary-amd64/Packages
- 61a17241ee29d28b709b14a33deeba00401440f70f2f664620605b5463ead6c7             2387 main/binary-amd64/Packages.gz
- cf19fb5c387d4d7c460b4b2a74840594325e35900ef521e1c23950fd6cdf7b14             9462 main/binary-arm64/Packages
- f068dd61d75942a4cbdd422f6ddf8535c62393dd1e5fa25f580cb3013f028f1b             2375 main/binary-arm64/Packages.gz
+ d17cb77f6c5871eeaf6de78740f268a445c016b5aca663da320f5b5d46582d0b             9470 main/binary-amd64/Packages
+ dfbe8692f7bb3c93e698f37c33747a95869670ba59468f233d923740cd118d3a             2385 main/binary-amd64/Packages.gz
+ 940edebbb5c1842aac6f69b784c4b3e73e43c2eaaca41678984dfef60d09cffa             9463 main/binary-arm64/Packages
+ 0d10bd5bf703d9063c1d2c36bb14db2885b13c41b32135b2ce6ee84b5af80018             2370 main/binary-arm64/Packages.gz
 SHA512:
- 18d862f9eb2d3015041987372ac1381d7e5be1da963337a1b47504157d9b55c8cb97e14978a1c40c96c913ac822120722abc981ef5ae8103f5d6e83b2206b641             9470 main/binary-amd64/Packages
- fa930330b4145f5607d6b2379e75f5b0297ea85a026595a13ed11a3131170ddf6633f5697a058f872d3829fb1687b2db6f88e5c937f0c9cb0192016e37657bba             2387 main/binary-amd64/Packages.gz
- fc451b677ca9a14ed8c8f1273b4ff44b3e96520d307d9a6b31a0a2b30cfeb982de95ab88ef40f30cce0e995847d97eb3ab12370762efe3269deaf110b0944fd6             9462 main/binary-arm64/Packages
- bb15308b695b7cfab8ee4d99b8a76a3f5460314b594c5cef739a85942607273a820a4bf6b384fbae7b9b4e175ddc5644211a642716349d7b4a542e82ebf5aea9             2375 main/binary-arm64/Packages.gz
+ 1233e6ce332ab9f5ec782c0a92b24b6db0ed2558be7a6e36e0c6319e3da0fc71253a264bfe7966eeaddfb596480cd730178c79c6065f43e1d476068a2aea005a             9470 main/binary-amd64/Packages
+ 6e33f0711ff95375a1aa3ba1975e08e18a86f434f2334b1bc621e739a99126d93c37aa0314487ce62d211e707d1a3851ce244e0a05ca2536cda1a26d0adbc3b8             2385 main/binary-amd64/Packages.gz
+ 8bec9fe7384666020d70250c00da404ecaeda5c48f4e9e6226aac42d80bb661eee70f398dd7e2eb10e0e06966ca744d395f49e61d1bf3c4cbfcc2e5b194faf82             9463 main/binary-arm64/Packages
+ ec0293ef8c6eec60045fd3d006237066be9353e128579a3d8b7c251e74ea7670cede1e5d2297b784df412c9130ebe806db8777d079fdb17ae41b71277708951a             2370 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQT7Fc9DKaeeHDIjiTHeXon2K5VH2gUCateS2QAKCRDeXon2K5VH
-2jPrAP0SlhGNKtIGvxmL/Fi+u2MXB9cdBw6qoOEg/+L/9I8NKgD5AW+3YX2J1e7Y
-V60qM8sHuF5vDt2Pe1irH+tZtobNIwI=
-=Iy8s
+iHUEARYIAB0WIQT7Fc9DKaeeHDIjiTHeXon2K5VH2gUCate6uQAKCRDeXon2K5VH
+2q0CAP9NJEJbf2KZaz0DnCQR8df9owJ9ID80UJsTd+ogs6iLigEA2lQE3P61kK+L
+kwCl6FZkk+kNjz90xcFV3U6WPetYJA8=
+=ovYR
 -----END PGP SIGNATURE-----
